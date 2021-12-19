@@ -3,3 +3,4 @@ Creacion del esquema Platziblog para obtener la certificacion del curso "Fundame
 Crear esquema.
 Crear tablas indepentientes, dependientes y transitivas.
 Uso del DDL.
+Reingeniería inversa con MySQLWorkbench
